@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: Code
-nav: true
+nav: false
 ---
 
 1. Leading a pupular transfer learningresource projects on Github: [Transfer learning](https://github/jindongwang/transferlearning) [![Transfer learning repo](https://img.shields.io/github/stars/jindongwang/transferlearning?style=social)](https://github/jindongwang/transferlearning)

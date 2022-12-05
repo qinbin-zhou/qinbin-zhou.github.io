@@ -2,7 +2,7 @@
 layout: page
 title: Students
 permalink: /students/
-nav: true
+nav: false
 ---
 
 #### Interns at MSRA
