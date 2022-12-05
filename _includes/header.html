@@ -13,7 +13,7 @@ var _hmt = _hmt || [];
     <!-- Nav Bar -->
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %}">
     <div class="container">
-      {% if page.title != "home" %}
+      {% if page.title != "Home" %}
       <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
        {% if site.title == "blank" %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% else %}{{ site.title }}{% endif %}
       </a>
@@ -33,10 +33,10 @@ var _hmt = _hmt || [];
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- Home -->
-          <li class="nav-item {% if page.title == 'home' %}active{% endif %}">
+          <li class="nav-item {% if page.title == 'Home' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              home
-              {% if page.title == "home" %}
+              Home
+              {% if page.title == "Home" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
             </a>
