@@ -27,9 +27,9 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 ### Education
 
-- 2020.09 -- present &nbsp Master student @ School of Information Science and Technology, Nantong University 
+- 2020.09 -- present　　Master student @ School of Information Science and Technology, Nantong University 
 
-- 2015.09 -- 2019.06 &nbsp Bachelor @ School of Electronic Information, Nantong University 
+- 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
 
 
 ### Honors and Awards
