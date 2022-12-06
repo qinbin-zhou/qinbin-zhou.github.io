@@ -25,14 +25,14 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 <!-- **Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested! -->
 
-# Education
+### Education
 
 - 2020.09 -- present &nbsp Master student @ School of Information Science and Technology, Nantong University 
 
 - 2015.09 -- 2019.06 &nbsp Bachelor @ School of Electronic Information, Nantong University 
 
 
-# Honors and Awards
+### Honors and Awards
 
 - 2021.12  "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
 
