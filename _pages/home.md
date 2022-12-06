@@ -25,8 +25,13 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 <!-- **Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested! -->
 
-<!-- ### Highlights
+ ### Education
 
+- 2020.09 -- present  Master student @ School of Information Science and Technology, Nantong University 
+
+- 2015.09 -- 2019.06  Bachelor @ School of Electronic Information, Nantong University 
+
+<!--
 1. Four of my papers are highly cited and ranked top 20 globally in recent 5 years in Google scholar metrics! See [here](https://zhuanlan.zhihu.com/p/421192644).
 2. I wrote a popular book [迁移学习导论](http://jd92.wang/tlbook) to make it easy to learn, understand, and use transfer learning.
 3. I lead the most popular transfer learning and semi-supervised learning projects on Github: [Transfer learning repo](https://github/jindongwang/transferlearning) [![Transfer learning repo](/assets/img/transferlearning-repo-star.jpg)](https://github/jindongwang/transferlearning) and  [Semi-supervised learning repo](https://github/torchssl/torchssl) [![SSL repo](/assets/img/torchssl-star.jpg)](https://github/stars/torchssl/torchssl)
