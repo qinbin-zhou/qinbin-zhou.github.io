@@ -72,7 +72,7 @@ rss_icon: true
 contact_note: 
   Never stop learning. #You can even add a little note about which of these is the best way to reach you.
 
-google_analytics: G-LRLQJKW7E9 # out your google-analytics code
+google_analytics: # out your google-analytics code 'G-LRLQJKW7E9 is Wang jindong's' 
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
