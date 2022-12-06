@@ -35,7 +35,9 @@ layout: default
       {% include news.html %}
     {% endif %}
 
-    {% include highlights.html %}
+    {% if highlights.html %}
+      {% include highlights.html %}
+    {% endif %}
 
     {% if page.selected_papers %}
       {% include selected_papers.html %}
