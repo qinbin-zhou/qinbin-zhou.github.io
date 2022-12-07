@@ -25,6 +25,8 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 <!-- **Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested! -->
 
+<br/>
+
 *** 
 
 #### Education
@@ -33,6 +35,8 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
 
+<br/>
+
 ---
 
 #### Honors and Awards
@@ -40,6 +44,8 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 - 2021.12  "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
 
 - 2020.12  "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
+
+<br/>
 
 <!--
 1. Four of my papers are highly cited and ranked top 20 globally in recent 5 years in Google scholar metrics! See [here](https://zhuanlan.zhihu.com/p/421192644).
