@@ -37,9 +37,9 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 #### Honors and Awards
 
-- 2021.12  "Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
+- 2021.12　"Huawei Cup" The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
 
-- 2020.12  "Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
+- 2020.12　"Huawei Cup" The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
 
 <hr />
 
