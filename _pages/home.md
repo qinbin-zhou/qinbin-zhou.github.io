@@ -25,6 +25,7 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 <!-- **Announcement:** I'm experimenting a new form of research collaboration. You can click [here](https://forms.office.com/r/32Fs6uAjT6) if you are interested! -->
 
+*** 
 
 #### Education
 
@@ -32,6 +33,7 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
 
+---
 
 #### Honors and Awards
 
