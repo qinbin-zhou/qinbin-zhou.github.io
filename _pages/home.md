@@ -39,7 +39,7 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
     - Supervisor:　**Prof. Gongan Qiu** ([*IEEE Profile*](https://ieeexplore.ieee.org/author/37710688400))
     
-    - Thesis:　Research on Task Policy of Emergency Communications Based on Service Awareness
+    - Thesis:　Research on Policy of Emergency Communication Task Based on Service Awareness
 
 <hr />
 
