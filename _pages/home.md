@@ -31,13 +31,13 @@ I'm currently pursuing a Master degree at [Nantong University](https://www.ntu.e
 
 - 2020.09 -- present 　　Master student @ School of Information Science and Technology, Nantong University 
 
-    - Supervisor:　Prof. Xiaomin Chen ([*Google Scholar*](https://scholar.google.com/citations?user=bGjLGOsAAAAJ&hl=zh-CN&oi=ao))
+    - Supervisor:　**Prof. Xiaomin Chen** ([*Google Scholar*](https://scholar.google.com/citations?user=bGjLGOsAAAAJ&hl=zh-CN&oi=ao))
 
     - Thesis:　Research on FEC Technology in Wireless Communication with Low Delay and High Reliability
 
 
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
-    - Supervisor:　Prof. Gongan Qiu ([*IEEE Profile*](https://ieeexplore.ieee.org/author/37710688400))
+    - Supervisor:　**Prof. Gongan Qiu** ([*IEEE Profile*](https://ieeexplore.ieee.org/author/37710688400))
     
     - Thesis:　Research on Task Policy of Emergency Communications Based on Service Awareness
 
