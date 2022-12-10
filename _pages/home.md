@@ -49,6 +49,10 @@ I'm currently pursuing a Master degree in Information and Communication Engineer
 
 - 2020.12　“Huawei Cup” The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)** 
 
+- 2020.12, 2021.12, 2022.12　The Second Prize Scholarship, Nantong University
+
+- 2016.12　The Second Prize Scholarship, Nantong University
+
 <hr />
 
 <!--
