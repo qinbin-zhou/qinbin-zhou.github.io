@@ -43,11 +43,11 @@ I'm currently pursuing a Master degree in Information and Communication Engineer
 
 #### Honors and Awards
 
-- 2022.12　“Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
+- 2022.12　“Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 13.4%)**
 
-- 2021.12　“Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)**
+- 2021.12　“Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10.6%)**
 
-- 2020.12　“Huawei Cup” The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10%)** 
+- 2020.12　“Huawei Cup” The 17th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 11.2%)** 
 
 - 2020.09, 2021.09, 2022.09　The Second Prize Scholarship, Nantong University
 
