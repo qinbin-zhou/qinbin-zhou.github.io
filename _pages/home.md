@@ -37,7 +37,7 @@ I'm currently pursuing a Master degree in Information and Communication Engineer
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
     - Supervisor:　**Prof. Gongan Qiu** ([*IEEE Profile*](https://ieeexplore.ieee.org/author/37710688400))
     
-    - Thesis:　Research on Policy of Emergency Communication Task Based on Service Awareness
+    - Dissertation:　Research on Policy of Emergency Communication Task Based on Service Awareness
 
 <hr />
 
