@@ -53,7 +53,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: Eric-qbzhou # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
-linkedin_username: 2010310021@stmail.ntu.edu.cn # your LinkedIn user name
+linkedin_username: Qinbin Zhou # your LinkedIn user name
 scholar_userid: # your Google Scholar ID : such as hBZ_tKsAAAAJ for Wang jingdong
 orcid_id: 0000-0002-3066-6036 # your ORCID ID
 medium_username: # your Medium username
@@ -70,7 +70,7 @@ stackoverflow_id: #your stackoverflow id
 rss_icon: false
 
 contact_note: 
-  Never stop learning. #You can even add a little note about which of these is the best way to reach you.
+   #You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: # out your google-analytics code 'G-LRLQJKW7E9 is Wang jindong's' 
 panelbear_analytics: # panelbear analytics site ID XXXXXXXXX
