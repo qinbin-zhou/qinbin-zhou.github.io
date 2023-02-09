@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: me.jpg
+  image: qinbinzhou.jpg
   address: 
 
 news: true  # includes a list of news items
