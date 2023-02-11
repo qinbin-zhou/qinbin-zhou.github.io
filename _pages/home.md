@@ -7,7 +7,7 @@ description:
 profile:
   align: right
   image: qinbinzhou.jpg
-  address:
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
