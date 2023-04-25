@@ -31,7 +31,7 @@ I'm currently pursuing a Master degree in Information and Communication Engineer
 
     - Supervisor:　**Prof. Xiaomin Chen** ([*Google Scholar*](https://scholar.google.com/citations?user=bGjLGOsAAAAJ&hl=zh-CN&oi=ao))
 
-    - Thesis:　Research on FEC Technology in Wireless Communication with Low Delay and High Reliability
+    - Thesis:　Design and Research of Energy-Efficient and Reliable Transmission Mechanisms for Industrial Internet of Things
 
 
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
