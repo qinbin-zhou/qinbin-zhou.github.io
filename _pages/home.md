@@ -16,10 +16,10 @@ social: false  # includes social icons at the bottom of the page
 
 M.S. student, School of Information Science and Technology, Nantong University<br>
 No. 9, Seyuan Road, Chongchuan District, Nantong, Jiangsu, China<br>
-2010310021 [at] stmail.ntu.edu.cn, qinbinzhou [at] outlook.com<br>
+~~2010310021 [at] stmail.ntu.edu.cn,~~ qinbinzhou [at] outlook.com<br>
 <!-- [Google scholar](https://scholar.google.com/citations?user=hBZ_tKsAAAAJ) | [DBLP](https://dblp.org/pid/19/2969-1.html) | [Github](https://github.com/jindongwang) || [Twitter](https://twitter.com/jd92wang) | [Zhihu](https://www.zhihu.com/people/jindongwang) | [Wechat](http://jd92.wang/assets/img/wechat_public_account.jpg) | [Bilibili](https://space.bilibili.com/477087194) || [Resume](https://www.jianguoyun.com/p/DagJaZEQjKnsBRjbkeAEIAA)  -->
 
-I'm currently pursuing a Master degree in Information and Communication Engineering at [Nantong University](https://www.ntu.edu.cn/), in a research group managed by [Prof. Xiaomin Chen](https://sist.ntu.edu.cn/2020/0429/c5301a139222/page.htm). Before this, I received the B.S. degree in Electronic Information Engineering from Nantong University in June, 2019. My master research interests mainly include network coding and forward error correction. Because of lab cooperation, I know some about other aspects, like optical communications, multiple input multiple output (MIMO), reconfigurable intelligent surface (RIS), non-orthogonal multiple access (NOMA), and machine learning.
+I have obtained my Master's degree in Information and Communication Engineering from [Nantong University](https://www.ntu.edu.cn/), in a research group managed by [Prof. Xiaomin Chen](https://sist.ntu.edu.cn/2020/0429/c5301a139222/page.htm). Before this, I received the B.S. degree in Electronic Information Engineering from Nantong University in June, 2019. My master research interests mainly include network coding and forward error correction. Because of lab cooperation, I know some about other aspects, like optical communications, multiple input multiple output (MIMO), reconfigurable intelligent surface (RIS), non-orthogonal multiple access (NOMA), and machine learning.
 
 **Research interest:** wireless communications and networking, error-control coding, forward error correction, information theory, and network coding. 
 
