@@ -43,6 +43,8 @@ I am currently serving as an Assistant Investigator at the [Research Platform fo
 
 #### Honors and Awards
 
+- 2023.05  Nomination for Excellent Graduate Thesis, Nantong University
+
 - 2022.12　“Huawei Cup” The 19th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 11.3%)**
 
 - 2021.12　“Huawei Cup” The 18th China Post-Graduate Mathematical Contest in Modeling, **second prize (Top 10.6%)**
