@@ -27,7 +27,7 @@ I am currently serving as an Assistant Investigator at the [Research Platform fo
 
 #### Education
 
-- 2020.09 -- present 　　Master student @ School of Information Science and Technology, Nantong University 
+- 2020.09 -- 2023.06　　Master student @ School of Information Science and Technology, Nantong University 
 
     - Supervisor:　**Prof. Xiaomin Chen** ([*Google Scholar*](https://scholar.google.com/citations?user=bGjLGOsAAAAJ&hl=zh-CN&oi=ao))
 
