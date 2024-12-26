@@ -21,7 +21,7 @@ No. 377 Linquan Street, Level 2, Block 3, Public Academy, Dushu Lake Science and
 
 I am currently serving as an Assistant Investigator at the [Research Platform for Biomedical & Health Technology](http://www.nusri.cn/research/areas/amd/) leaded by [Prof. Yongxin Guo](https://cde.nus.edu.sg/ece/staff/guo-yong-xin/) at the [National University of Singapore's Suzhou Research Institute](http://www.nusri.cn/). I have obtained my Master's degree in Information and Communication Engineering from [Nantong University](https://www.ntu.edu.cn/), in a research group managed by [Prof. Xiaomin Chen](https://sist.ntu.edu.cn/2020/0429/c5301a139222/page.htm). Before this, I received the B.S. degree in Electronic Information Engineering from Nantong University in June, 2019. During my master's program, my research mainly focused on network coding and forward error correction. Because of lab cooperation, I know some about other aspects, like optical communications, multiple input multiple output (MIMO), reconfigurable intelligent surface (RIS), non-orthogonal multiple access (NOMA), and machine learning.
 
-**Research interest:** wireless communications and networking, error-control coding, forward error correction, information theory, and network coding. 
+**Research interest:** wireless communications and networking, error-control coding, forward error correction, information theory, network coding, and integrated sensing and communications. 
 
 <hr />
 
