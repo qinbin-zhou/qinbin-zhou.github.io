@@ -37,7 +37,7 @@ I am currently serving as an Assistant Investigator at the [Research Platform fo
 - 2015.09 -- 2019.06　　Bachelor @ School of Electronic Information, Nantong University 
     - Supervisor:　**Prof. Gongan Qiu** ([*IEEE Profile*](https://ieeexplore.ieee.org/author/37710688400))
     
-    - Dissertation:　Research on Policy of Emergency Communication Task Based on Service Awareness
+    - Dissertation:　Research on Service-Aware Emergency Communication Schemes
 
 <hr />
 
