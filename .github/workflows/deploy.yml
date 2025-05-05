@@ -20,6 +20,13 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.0.2'
+
+
+    - name: Install ImageMagick dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y imagemagick libmagickcore-dev libmagickwand-dev
+
     - name: Enable bundler cache
       uses: actions/cache@v3
       with:
