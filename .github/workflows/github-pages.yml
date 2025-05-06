@@ -18,6 +18,9 @@ jobs:
         with:
           ruby-version: '3.1'
 
+      - name: Install ImageMagick (for rmagick)
+        run: sudo apt-get update && sudo apt-get install -y libmagickwand-dev
+
       - name: Install dependencies
         run: bundle install
 
